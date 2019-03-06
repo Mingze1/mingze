@@ -8,7 +8,7 @@ import personal from '@/pages/personal'
 import product from '@/pages/product'
 
 Vue.use(Router)
-// 什么呢
+
 export default new Router({
   routes: [
     {
